@@ -32,9 +32,13 @@ This IMS helps businesses manage products, brands, categories, and orders effici
 ## 🧰 Tech Stack
 
 Frontend: HTML, CSS, Bootstrap, Vanilla JavaScript
+
 Backend: PHP, MySQL
+
 Database: MySQL / MariaDB
+
 UI/UX: Modern dashboard with responsive cards and charts
+
 Charts: Chart.js for revenue and sales visualization
 
 ---
