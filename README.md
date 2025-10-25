@@ -50,22 +50,22 @@ Charts: Chart.js for revenue and sales visualization
 ---
 ## 📂 Module Breakdown
 
-- 🏷 Brands & Categories
+- 🏷 Brands & Categories:
  Manage product brands and categories
  Add, edit, delete brands/categories
  Status indicators (Active/Inactive)
-- 🛍 Products
+- 🛍 Products:
  Add new products with images, quantity, and rate
  Update stock levels dynamically
  Mark products as Active/Inactive
-- 📝 Orders
+- 📝 Orders:
  Create and manage client orders
  Track paid, due, and total amounts
  View order status and payment type
-- 📉 Low Stock
+- 📉 Low Stock:
  Automatic low-stock alert for products ≤ 3
  Helps prevent stockouts
-- 👤 Users
+- 👤 Users:
  Secure login system for admins
  Role-based access control (optional for future expansion)
 
