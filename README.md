@@ -38,33 +38,11 @@ UI/UX: Modern dashboard with responsive cards and charts
 Charts: Chart.js for revenue and sales visualization
 
 ---
-
- 🛠️ Installation
-
- 🖥️ Prerequisites
-
- XAMPP / WAMP / LAMP
- PHP 7+
- MySQL or MariaDB
- Web browser (Chrome/Firefox/Edge)
-
- 
----
-
- 📊 Dashboard
-
-The dashboard provides an overview of your business:
-
- Total Products 🛒
- Total Orders 📝
- Low Stock Alerts ⚠️
- Revenue Analytics 💰
- Calendar / Timeline 📅
-
-Modern UI design inspired by React dashboards with responsive cards, grid layouts, and charts.
+📸 Demo
+<img width="1920" height="1003" alt="Screenshot (194)" src="https://github.com/user-attachments/assets/6b727c13-861e-4c6d-81c1-41383b743c10" />
+<img width="899" height="738" alt="Screenshot (195)" src="https://github.com/user-attachments/assets/6d56e98c-8d09-4af0-82c9-bba109f01a57" />
 
 ---
-
  📂 Module Breakdown
 
  🏷 Brands & Categories
