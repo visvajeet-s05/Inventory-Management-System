@@ -18,14 +18,14 @@ This IMS helps businesses manage products, brands, categories, and orders effici
 
  ## 🚀 Features
 
- ✅ Real-time product stock tracking 
- ✅ Order management with status and payment tracking 
- ✅ Low stock alerts for timely restocking 
- ✅ Revenue calculation and analytics 
- ✅ CRUD operations for products, brands, and categories
- ✅ Responsive dashboard with modern cards and charts
- ✅ Search and filter functionality for quick access
- ✅ Secure login system for admin users
+ - ✅ Real-time product stock tracking
+ - ✅ Order management with status and payment tracking 
+ - ✅ Low stock alerts for timely restocking 
+ - ✅ Revenue calculation and analytics 
+ - ✅ CRUD operations for products, brands, and categories
+ - ✅ Responsive dashboard with modern cards and charts
+ - ✅ Search and filter functionality for quick access
+ - ✅ Secure login system for admin users
 
 ---
 
